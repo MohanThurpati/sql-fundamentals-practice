@@ -66,9 +66,9 @@ This project contains practical SQL exercises such as:
 ```text
 sql-fundamentals-practice
 │
+├── screenshots 
 ├── README.md
-├── sql_fundamentals_practice.sql
-└── screenshots
+└── sql_fundamentals_practice.sql
 ```
 
 ---
